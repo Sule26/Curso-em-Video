@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+        body {
+            font-size: 18px;
+        }
+        h1, h2 {
+            font-family: 'Pacifico', cursive;
+            font-weight: normal;
+        }
+        input {
+            font-size: 18px;
+        }
+        input#txtn {
+            width: 80px;
+        }
+        input#botao {
+            color: white;
+            background-color: green;
+            padding: 5px;
+        }

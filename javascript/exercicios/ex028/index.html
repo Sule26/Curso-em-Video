@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Fatorial</title>
+</head>
+<body>
+    <h1>Cálculo de Fatorial</h1>
+    <p>Escreva um número (entre 1 e 21) na caixa a seguir e te mostrarei o Fatorial dele.</p>
+    <form action="#">
+        <p>
+            <label for="txtn">Numero:</label>
+            <input type="number" name="txtn" id="txtn" min="1" max="21" placeholder="Número">
+            <input type="submit" value="Fatorial" id="botao" formaction="javascript:fatorial()">
+        </p>
+    </form>
+    
+    <div id="res">
+        <p>Preencha os dados acima e aperte o botão.</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
