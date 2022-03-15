@@ -4,8 +4,8 @@ Esse repositório foi feito para registrar os conhecimentos adquirido nos cursos
 ![Curso em Video](https://guiadeti.com.br/wp-content/uploads/2021/09/guia-cursos-cursoemvideo.png)
 
 ## Cursos Realizados
-[HTML e CSS](https://github.com/Sule26/Curso-em-Video/tree/main/HTML5-CSS3)
-[JavaScript](https://github.com/Sule26/Curso-em-Video/tree/main/JavaScript)
+- [HTML e CSS](https://github.com/Sule26/Curso-em-Video/tree/main/HTML5-CSS3)
+- [JavaScript](https://github.com/Sule26/Curso-em-Video/tree/main/JavaScript)
 
 ## Exercícios e Desafios
 
